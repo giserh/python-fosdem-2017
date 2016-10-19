@@ -1,0 +1,15 @@
+title: PythonFOSDEM 2017
+cfp:
+  start_date: 2016-10-19
+  stop_date: 2016-12-02
+  announce_talks: 2016-12-09
+date: 2017-02-04
+fosdem: https://fosdem.org/
+menu:
+  - title: Call For Proposals
+    url: /cfp.html
+  - title: Code of Conduct
+    url: /coc.html
+  - title: Blog
+    url: http://blog.python-fosdem.org/
+        

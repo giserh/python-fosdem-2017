@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <div class="container">
+	<div class="row">
+	    <h1 class="text-center">{{ page.title[0] }}</h1>
+	</div>
+	<div class="row">
+	    {{ content }}
+	</div>
+    </div>
+{% endblock %}
